@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924&layout=compact)](https://github.com/hyeon924/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)
 
 ## ⚙ 기술 스택
 
