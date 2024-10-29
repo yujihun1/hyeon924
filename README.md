@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924)
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=header" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924&hide=contribs,prs&show_icons=true&theme=테마)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=footer" />
