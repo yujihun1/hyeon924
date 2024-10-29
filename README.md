@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=header" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)]
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=footer" />
