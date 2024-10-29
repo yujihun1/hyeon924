@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924&hide=contribs,prs&show_icons=true&theme=테마)
 
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeon0924)](https://velog.io/@hyeon0924/series)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=footer" />
