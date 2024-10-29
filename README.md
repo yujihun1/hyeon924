@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and welcome to my git hub ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 
 <!--
 **hyeon924/hyeon924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,85 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924&hide=contribs,prs&show_icons=true&theme=테마)
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyeon0924" alt="Velog's GitHub stats" style="display: inline-block;" />
+  <details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+</summary>
+   <br>
+  
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</details>
+
+  <details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> 앞으로 내가 배우고 싶은 !
+</summary>
+    <br>
+    
+![PHP](https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</details>
+
+
+  <details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="25" height="25" /> HYEON Velog
+</summary>
+    <br>
+    https://velog.io/@hyeon0924/series
+
+</details>
+
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=header" />
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C2EF7&multiline=true&width=540&lines=%F0%9F%92%9C+Hyeon%EC%9D%98+GitHub%EC%97%90+%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4+!+%F0%9F%92%9C" alt="Typing SVG" /></a>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyeon924&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
+</div>
 
+## 🚀 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924&layout=compact)](https://github.com/hyeon924/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924&hide=contribs,prs&show_icons=true&theme=테마)
+## ⚙ 기술 스택
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeon0924)
+### Front-end
+<div>
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="80" alt="HTML Badge">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Bootstrap.png?raw=true" width="80">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80" alt="JavaScript Badge">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/jQuery.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+</div>
+
+### Back-end
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Thymeleaf.png?raw=true" width="80">
+</div>
+
+### Tools
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Figma.png?raw=true" width="80">
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC8CD1&height=150&section=footer" />
