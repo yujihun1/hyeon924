@@ -112,9 +112,9 @@ Here are some ideas to get you started:
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> [팀 프로젝트] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />
 </summary>
-
-<a href="https://github.com/hyeon924/AllForOne" target="_blank">AllForOne 프로젝트</a>
-[AllForOne 프로젝트](https://github.com/hyeon924/AllForOne) (Ctrl+클릭하면 새 탭에서 열립니다)
+    
+<h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
+- [AllForOne 프로젝트] (https://github.com/hyeon924/AllForOne)
 
 
 
@@ -125,8 +125,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" /> [개인 프로젝트]  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" />
 </summary>
     
-#### TechBlocks
-- [LINK](https://github.com/hyeon924/TechBlocks)
+<h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
+- [TechBlocks 프로젝트] (https://github.com/hyeon924/TechBlocks)
 
 </details>
 
