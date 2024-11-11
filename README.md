@@ -113,8 +113,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> [팀 프로젝트] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />
 </summary>
 
-#### AllForOne
-- [LINK](https://github.com/hyeon924/AllForOne)
+<a href="https://github.com/hyeon924/AllForOne" target="_blank">AllForOne 프로젝트</a>
+
 
 </details>
 
