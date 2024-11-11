@@ -111,7 +111,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> [팀 프로젝트] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" />
 </summary>
 
-### AllForOne
+#### AllForOne
 - [LINK](https://github.com/hyeon924/AllForOne)
 
 </details>
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" /> [개인 프로젝트]  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="25" height="25" />
 </summary>
     
-### TechBlocks
+#### TechBlocks
 - [LINK](https://github.com/hyeon924/TechBlocks)
 
 </details>
