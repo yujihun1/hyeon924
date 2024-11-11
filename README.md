@@ -114,6 +114,8 @@ Here are some ideas to get you started:
 </summary>
 
 <a href="https://github.com/hyeon924/AllForOne" target="_blank">AllForOne 프로젝트</a>
+[AllForOne 프로젝트](https://github.com/hyeon924/AllForOne) (Ctrl+클릭하면 새 탭에서 열립니다)
+
 
 
 </details>
