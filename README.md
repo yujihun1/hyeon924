@@ -1,5 +1,5 @@
 <!--
-**hyeon924/hyeon924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yujihun/yujihun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon924&hide=contribs,prs&show_icons=true&theme=테마)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujihun1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujihun1&hide=contribs,prs&show_icons=true&theme=테마)
   <img src="https://velog-readme-stats.vercel.app/api?name=hyeon0924" alt="Velog's GitHub stats" style="display: inline-block;" />
   <details>
 <summary>
